@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/itikaa/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/itikaa/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/itikaa/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/itikaa/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/itikaa/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/itikaa/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/itikaa/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -77,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itikaa/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/itikaa/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/itikaa/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
