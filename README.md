@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itikaa/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/itikaa/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itikaa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/itikaa/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/itikaa/LeetCode/tree/master/0112-path-sum) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/itikaa/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Enumeration
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itikaa/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/itikaa/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itikaa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itikaa/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/itikaa/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itikaa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Stack
