@@ -16,10 +16,7 @@
 class Solution {
     public  int sum=0;
     public int sumOfLeftLeaves(TreeNode root) {
-        if(root==null){return 0;}
-        if(root.left==null && root.right==null){return 0;}
-        sum(root.left,0);
-        sum(root.right,1);
+        sum(root,1);
         return sum;
     }
     public void sum(TreeNode root,int r){
