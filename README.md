@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/itikaa/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0733-flood-fill](https://github.com/itikaa/LeetCode/tree/master/0733-flood-fill) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/itikaa/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/itikaa/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itikaa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/itikaa/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/itikaa/LeetCode/tree/master/0733-flood-fill) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/itikaa/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/itikaa/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/itikaa/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/itikaa/LeetCode/tree/master/0733-flood-fill) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/itikaa/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -151,10 +154,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/itikaa/LeetCode/tree/master/0733-flood-fill) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/itikaa/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/itikaa/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
