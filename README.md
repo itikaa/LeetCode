@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itikaa/LeetCode/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/itikaa/LeetCode/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/itikaa/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0733-flood-fill](https://github.com/itikaa/LeetCode/tree/master/0733-flood-fill) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/itikaa/LeetCode/tree/master/0056-merge-intervals) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/itikaa/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Design
 |  |
