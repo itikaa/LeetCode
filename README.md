@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itikaa/LeetCode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/itikaa/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/itikaa/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/itikaa/LeetCode/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/itikaa/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/itikaa/LeetCode/tree/master/0055-jump-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itikaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/itikaa/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/itikaa/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/itikaa/LeetCode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/itikaa/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/itikaa/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
