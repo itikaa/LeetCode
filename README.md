@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itikaa/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/itikaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/itikaa/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/itikaa/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/itikaa/LeetCode/tree/master/0056-merge-intervals) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/itikaa/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/itikaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
