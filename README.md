@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/itikaa/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/itikaa/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/itikaa/LeetCode/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/itikaa/LeetCode/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/itikaa/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/itikaa/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/itikaa/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/itikaa/LeetCode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/itikaa/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/itikaa/LeetCode/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/itikaa/LeetCode/tree/master/0322-coin-change) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/itikaa/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itikaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
