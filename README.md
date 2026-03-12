@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/itikaa/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/itikaa/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/itikaa/LeetCode/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itikaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/itikaa/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/itikaa/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itikaa/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/itikaa/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itikaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/itikaa/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/itikaa/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itikaa/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itikaa/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/itikaa/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itikaa/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itikaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String Matching
 |  |
 | ------- |
