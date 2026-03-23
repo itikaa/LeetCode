@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/itikaa/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/itikaa/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itikaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/itikaa/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/itikaa/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/itikaa/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/itikaa/LeetCode/tree/master/0055-jump-game) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/itikaa/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itikaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itikaa/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/itikaa/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/itikaa/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/itikaa/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/itikaa/LeetCode/tree/master/0141-linked-list-cycle) |
