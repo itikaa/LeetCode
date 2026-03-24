@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/itikaa/LeetCode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itikaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/itikaa/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/itikaa/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/itikaa/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/itikaa/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/itikaa/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/itikaa/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/itikaa/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/itikaa/LeetCode/tree/master/0229-majority-element-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/itikaa/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itikaa/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/itikaa/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/itikaa/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/itikaa/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itikaa/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/itikaa/LeetCode/tree/master/0229-majority-element-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/itikaa/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/itikaa/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/itikaa/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/itikaa/LeetCode/tree/master/0229-majority-element-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/itikaa/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/itikaa/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search Tree
