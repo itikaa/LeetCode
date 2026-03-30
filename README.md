@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/itikaa/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/itikaa/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/itikaa/LeetCode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/itikaa/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itikaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/itikaa/LeetCode/tree/master/0229-majority-element-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/itikaa/LeetCode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/itikaa/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/itikaa/LeetCode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/itikaa/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/itikaa/LeetCode/tree/master/0322-coin-change) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/itikaa/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itikaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
