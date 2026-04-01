@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/itikaa/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itikaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/itikaa/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/itikaa/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/itikaa/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/itikaa/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/itikaa/LeetCode/tree/master/0055-jump-game) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/itikaa/LeetCode/tree/master/0035-search-insert-position) |
 | [0096-unique-binary-search-trees](https://github.com/itikaa/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/itikaa/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itikaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
