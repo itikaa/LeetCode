@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/itikaa/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/itikaa/LeetCode/tree/master/0733-flood-fill) |
 | [0759-set-intersection-size-at-least-two](https://github.com/itikaa/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [1004-max-consecutive-ones-iii](https://github.com/itikaa/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/itikaa/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/itikaa/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itikaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/itikaa/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/itikaa/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/itikaa/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/itikaa/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/itikaa/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/itikaa/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/itikaa/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/itikaa/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itikaa/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/itikaa/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/itikaa/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Iterator
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itikaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/itikaa/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/itikaa/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/itikaa/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
