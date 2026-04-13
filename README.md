@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/itikaa/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/itikaa/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/itikaa/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/itikaa/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/itikaa/LeetCode/tree/master/0733-flood-fill) |
 | [0759-set-intersection-size-at-least-two](https://github.com/itikaa/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0904-fruit-into-baskets](https://github.com/itikaa/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/itikaa/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/itikaa/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/itikaa/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/itikaa/LeetCode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/itikaa/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/itikaa/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itikaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
