@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/itikaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itikaa/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/itikaa/LeetCode/tree/master/0079-word-search) |
+| [0345-reverse-vowels-of-a-string](https://github.com/itikaa/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/itikaa/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0657-robot-return-to-origin](https://github.com/itikaa/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itikaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/itikaa/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itikaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/itikaa/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/itikaa/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3643-flip-square-submatrix-vertically](https://github.com/itikaa/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String Matching
 |  |
