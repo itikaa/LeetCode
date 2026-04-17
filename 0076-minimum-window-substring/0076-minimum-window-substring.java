@@ -16,7 +16,6 @@ class Solution {
         int start=-1;
         while(r<n1){
             char ch = s.charAt(r);
-            
              if (mp.containsKey(ch)) {
                 if (mp.get(ch) > 0) {
                     count++;
