@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/itikaa/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/itikaa/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0657-robot-return-to-origin](https://github.com/itikaa/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1021-remove-outermost-parentheses](https://github.com/itikaa/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itikaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itikaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/itikaa/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/itikaa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/itikaa/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0445-add-two-numbers-ii](https://github.com/itikaa/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/itikaa/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2751-robot-collisions](https://github.com/itikaa/LeetCode/tree/master/2751-robot-collisions) |
 ## Combinatorics
 |  |
