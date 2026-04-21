@@ -1,25 +1,25 @@
 class Solution {
     public int characterReplacement(String s, int k) {
         HashMap<Character,Integer> mp=new HashMap<>();
-        int left=0; int right=0;
-  int ans=0; int max=Integer.MIN_VALUE;
+        int l=0;
+        int r=0; 
+        int max=Integer.MIN_VALUE;
+    int ans=0;
+        while(r<s.length()){
+           mp.put(s.charAt(r),mp.getOrDefault(s.charAt(r),0)+1);
+           int check=mp.get(s.charAt(r));
+            max= Math.max(max,check);
 
-        while(right<s.length()){
-
-    int check=mp.getOrDefault(s.charAt(right),0)+1;
-    mp.put(s.charAt(right),mp.getOrDefault(s.charAt(right),0)+1);
-     max=Math.max(max,check);
-
-    while((right-left+1)-max>k){
-        mp.put(s.charAt(left),mp.get(s.charAt(left))-1);
-        if(mp.get(s.charAt(left))==0){
-            mp.remove(s.charAt(left));
+           while((r-l+1)-max>k){
+              mp.put(s.charAt(l),mp.get(s.charAt(l))-1);
+              if(mp.get(s.charAt(l))==0){
+                mp.remove(s.charAt(l));
+              }
+              l++;
+           }
+           ans=Math.max(ans,r-l+1);
+     r++;
         }
-        left++;
-    }
-     ans=Math.max(ans,right-left+1);
-     right++;
-        }
-return ans;
+        return ans;
     }
 }
