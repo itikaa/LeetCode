@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/itikaa/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/itikaa/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/itikaa/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/itikaa/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/itikaa/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/itikaa/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Depth-First Search
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/itikaa/LeetCode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/itikaa/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/itikaa/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2833-furthest-point-from-origin](https://github.com/itikaa/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/itikaa/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search Tree
 |  |
