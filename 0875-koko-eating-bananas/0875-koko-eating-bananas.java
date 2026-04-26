@@ -14,10 +14,10 @@ class Solution {
                 count++;
             }
         }
-        if(count>h){
+        if(count>h || count<0){
             l=mid+1;
         }
-        else if(count<=h){
+        else if(count<=h && count>0){
             r=mid-1;
         }
      }
