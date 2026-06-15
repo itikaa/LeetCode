@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/itikaa/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itikaa/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0445-add-two-numbers-ii](https://github.com/itikaa/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/itikaa/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itikaa/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/itikaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/itikaa/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/itikaa/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itikaa/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/itikaa/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itikaa/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itikaa/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3643-flip-square-submatrix-vertically](https://github.com/itikaa/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
