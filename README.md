@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/itikaa/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itikaa/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itikaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-find-the-highest-altitude](https://github.com/itikaa/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/itikaa/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/itikaa/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itikaa/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/itikaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/itikaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itikaa/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/itikaa/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/itikaa/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2574-left-and-right-sum-differences](https://github.com/itikaa/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2625-increment-submatrices-by-one](https://github.com/itikaa/LeetCode/tree/master/2625-increment-submatrices-by-one) |
