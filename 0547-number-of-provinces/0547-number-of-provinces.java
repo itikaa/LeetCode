@@ -1,31 +1,48 @@
 class Solution {
-    static boolean[] visited;
     public int findCircleNum(int[][] isConnected) {
-        int count=0;
+        HashMap<Integer,ArrayList<Integer>> mp=new HashMap<>();
         int n=isConnected.length;
-        visited=new boolean[n];
         for(int i=0;i<n;i++){
-            if(visited[i]==false){
-                dfs(visited,isConnected,i);
-                count++;
+            for(int j=i+1;j<n;j++){
+                if(isConnected[i][j]==1){
+                    mp.putIfAbsent(i+1,new ArrayList<>());
+                    mp.get(i+1).add(j+1);
+                    mp.putIfAbsent(j+1,new ArrayList<>());
+                    mp.get(j+1).add(i+1);
+                }
             }
         }
-        return count;
-    
+    int count=0;
+
+        Queue<Integer> q=new LinkedList<>();
+        boolean[] visited=new boolean[n+1];
+        q.offer(1);
+        visited[1]=true;
+          count++;
+        for(int i=1;i<n+1;i++){
+         
+         if(visited[i]==false){
+            q.offer(i);
+            visited[i]=true;
+            count++;
+         }
+          
+        
+        while(!q.isEmpty()){
+            int current=q.poll();
+             ArrayList<Integer> connected= mp.get(current);
+             if(connected!=null){
+             for(int next : connected) {
+             if(!visited[next]) {
+                 visited[next] = true;
+                 q.offer(next);
+                 }
+             }
+        }
+        }
+       
+        
+        }
+return count;
+    }
 }
-
-public void dfs(boolean[] visited,int[][] isConnected, int i){
-          visited[i]=true;
-          for(int j=0;j<isConnected[0].length;j++){
-            if(isConnected[i][j]==1 && visited[j]==false){
-                dfs(visited,isConnected,j);
-            }
-          }
-}
-
-}
-
-
-
-
-
