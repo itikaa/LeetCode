@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/itikaa/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/itikaa/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/itikaa/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2810-faulty-keyboard](https://github.com/itikaa/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/itikaa/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/itikaa/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3612-process-string-with-special-operations-i](https://github.com/itikaa/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itikaa/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/itikaa/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2751-robot-collisions](https://github.com/itikaa/LeetCode/tree/master/2751-robot-collisions) |
+| [2810-faulty-keyboard](https://github.com/itikaa/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3612-process-string-with-special-operations-i](https://github.com/itikaa/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/itikaa/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/itikaa/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
