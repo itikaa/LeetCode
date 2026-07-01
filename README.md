@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/itikaa/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2625-increment-submatrices-by-one](https://github.com/itikaa/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2751-robot-collisions](https://github.com/itikaa/LeetCode/tree/master/2751-robot-collisions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/itikaa/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/itikaa/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/itikaa/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/itikaa/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/itikaa/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/itikaa/LeetCode/tree/master/0994-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/itikaa/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/itikaa/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/itikaa/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/itikaa/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itikaa/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/itikaa/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Iterator
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/itikaa/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/itikaa/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/itikaa/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/itikaa/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/itikaa/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/itikaa/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/itikaa/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/itikaa/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Graph
 |  |
@@ -523,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/itikaa/LeetCode/tree/master/0547-number-of-provinces) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/itikaa/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
