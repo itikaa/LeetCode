@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/itikaa/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itikaa/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itikaa/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itikaa/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itikaa/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/itikaa/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itikaa/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/itikaa/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/itikaa/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/itikaa/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itikaa/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/itikaa/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/itikaa/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/itikaa/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itikaa/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itikaa/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/itikaa/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itikaa/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
