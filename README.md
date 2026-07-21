@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/itikaa/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/itikaa/LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/itikaa/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/itikaa/LeetCode/tree/master/0279-perfect-squares) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/itikaa/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0445-add-two-numbers-ii](https://github.com/itikaa/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0788-rotated-digits](https://github.com/itikaa/LeetCode/tree/master/0788-rotated-digits) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/itikaa/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/itikaa/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itikaa/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/itikaa/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/itikaa/LeetCode/tree/master/0322-coin-change) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/itikaa/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0788-rotated-digits](https://github.com/itikaa/LeetCode/tree/master/0788-rotated-digits) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/itikaa/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/itikaa/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/itikaa/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/itikaa/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/itikaa/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/itikaa/LeetCode/tree/master/0433-minimum-genetic-mutation) |
