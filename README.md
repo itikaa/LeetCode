@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itikaa/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itikaa/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2751-robot-collisions](https://github.com/itikaa/LeetCode/tree/master/2751-robot-collisions) |
+| [3536-maximum-product-of-two-digits](https://github.com/itikaa/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/itikaa/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itikaa/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/itikaa/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/itikaa/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itikaa/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/itikaa/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/itikaa/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/itikaa/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itikaa/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
