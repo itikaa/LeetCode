@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/itikaa/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/itikaa/LeetCode/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/itikaa/LeetCode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/itikaa/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itikaa/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/itikaa/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itikaa/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/itikaa/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/itikaa/LeetCode/tree/master/0322-coin-change) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/itikaa/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/itikaa/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0788-rotated-digits](https://github.com/itikaa/LeetCode/tree/master/0788-rotated-digits) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/itikaa/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itikaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
