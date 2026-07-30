@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/itikaa/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/itikaa/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itikaa/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/itikaa/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/itikaa/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itikaa/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itikaa/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -614,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itikaa/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/itikaa/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/itikaa/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
