@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itikaa/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itikaa/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itikaa/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itikaa/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/itikaa/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/itikaa/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3689-maximum-total-subarray-value-i](https://github.com/itikaa/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itikaa/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itikaa/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2751-robot-collisions](https://github.com/itikaa/LeetCode/tree/master/2751-robot-collisions) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itikaa/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itikaa/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/itikaa/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/itikaa/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/itikaa/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/itikaa/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itikaa/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itikaa/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/itikaa/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itikaa/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/itikaa/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/itikaa/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/itikaa/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/itikaa/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itikaa/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/itikaa/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/itikaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/itikaa/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/itikaa/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/itikaa/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/itikaa/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itikaa/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/itikaa/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itikaa/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search Tree
