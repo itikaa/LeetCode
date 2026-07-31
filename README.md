@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/itikaa/LeetCode/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/itikaa/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itikaa/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
