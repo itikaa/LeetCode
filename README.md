@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/itikaa/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itikaa/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/itikaa/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/itikaa/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/itikaa/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/itikaa/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/itikaa/LeetCode/tree/master/0724-find-pivot-index) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itikaa/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/itikaa/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/itikaa/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/itikaa/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/itikaa/LeetCode/tree/master/0733-flood-fill) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/itikaa/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2685-count-the-number-of-complete-components](https://github.com/itikaa/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/itikaa/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/itikaa/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/itikaa/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/itikaa/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/itikaa/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/itikaa/LeetCode/tree/master/0994-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/itikaa/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/itikaa/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/itikaa/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/itikaa/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/itikaa/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/itikaa/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/itikaa/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/itikaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/itikaa/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/itikaa/LeetCode/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/itikaa/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itikaa/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
