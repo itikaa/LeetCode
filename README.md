@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/itikaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/itikaa/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/itikaa/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1860-incremental-memory-leak](https://github.com/itikaa/LeetCode/tree/master/1860-incremental-memory-leak) |
 | [1903-largest-odd-number-in-string](https://github.com/itikaa/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itikaa/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/itikaa/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/itikaa/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/itikaa/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1860-incremental-memory-leak](https://github.com/itikaa/LeetCode/tree/master/1860-incremental-memory-leak) |
 | [2069-walking-robot-simulation-ii](https://github.com/itikaa/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/itikaa/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itikaa/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
