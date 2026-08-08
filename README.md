@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/itikaa/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/itikaa/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/itikaa/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/itikaa/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/itikaa/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/itikaa/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itikaa/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
