@@ -8,7 +8,9 @@ class Solution(object):
         for i in s:
             if i in"({[":
               stack.append(i)
-            elif stack:
+            else:
+             if len(stack)==0:
+                return False
              if i==')' and stack[-1]=='(':
                 stack.pop()
              elif i=='}' and stack[-1]=='{':
@@ -17,6 +19,8 @@ class Solution(object):
                 stack.pop()
              else:
                 return False
+        if stack:
+            return False
         return True
 
 
